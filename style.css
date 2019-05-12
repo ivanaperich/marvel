@@ -1,0 +1,42 @@
+  #cuerpo {
+    background-color: rgb(255, 0, 0);
+  }
+
+  #boton{
+      margin-left: 65%;
+      margin-top: 15px;
+  }
+
+  #row1{
+    background-color: white;
+    height: 150px;
+    padding-left: 38.5%;
+  }
+
+  form{    
+    padding-top: 13px;
+    padding-left: 10%;
+  }
+
+  #p1{
+    margin-left: 52%;
+  }
+
+  p{
+    color: aliceblue;
+    text-align: center;
+  }
+
+  #p2{
+    margin-top: 0.05cm;
+  }
+
+  #row2{
+    height: 78px;
+  }
+
+  #personaje{
+    align-self: center;
+  }
+
+  
